@@ -8,5 +8,9 @@ Course materials <a href='https://cs50.harvard.edu/x/2020/'>here</a>
 
 ## Table Of Contents
 
-- [Problem Set 0: Scratch](/pset0) - Problem Set 0 --<a href='https://cs50.harvard.edu/x/2020/psets/0/'>(link)</a>
+- [Problem Set 0: Scratch](/pset0) - Problem Set 0 --<a href='https://cs50.harvard.edu/x/2021/psets/0/'>(link)</a>
   * [Scratch](/pset0/Scratch_Project.sb3)
+
+
+- [Problem Set 1: C](/pset1) - Problem Set 1 --<a href='https://cs50.harvard.edu/x/2021/psets/1/'>(link)</a>
+  * [Hello](/pset0/hello.c)
