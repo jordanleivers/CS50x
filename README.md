@@ -16,3 +16,6 @@ Course materials <a href='https://cs50.harvard.edu/x/2020/'>here</a>
   * [Hello](/pset1/hello.c)
   * [Mario](/pset1/mario.c)
   * [Credit](/pset1/credit.c)
+
+- [Problem Set 2: C](/pset2) - Problem Set 2 --<a href='https://cs50.harvard.edu/x/2021/psets/2/'>(link)</a>
+  * [Caesar](/pset2/caesar.c)
