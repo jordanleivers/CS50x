@@ -8,14 +8,16 @@ Course materials <a href='https://cs50.harvard.edu/x/2020/'>here</a>
 
 ## Table Of Contents
 
-- [Problem Set 0: Scratch](/pset0) - Problem Set 0 --<a href='https://cs50.harvard.edu/x/2021/psets/0/'>(link)</a>
-  * [Scratch](/pset0/Scratch_Project.sb3)
+- [Week 0: Scratch](/pset0) - Week 0 --<a href='https://cs50.harvard.edu/x/2021/psets/0/'>(link)</a>
+  * [Problem Set - Scratch](/pset0/Scratch_Project.sb3)
 
 
-- [Problem Set 1: C](/pset1) - Problem Set 1 --<a href='https://cs50.harvard.edu/x/2021/psets/1/'>(link)</a>
-  * [Hello](/pset1/hello.c)
-  * [Mario](/pset1/mario.c)
-  * [Credit](/pset1/credit.c)
+- [Week 1: C](/pset1) - Problem Set 1 --<a href='https://cs50.harvard.edu/x/2021/psets/1/'>(link)</a>
+  * [Lab - Hello](/pset1/hello.c)
+  * [Lab - Population](/pset1/population.c)
+  * [Problem Set - Mario](/pset1/mario.c)
+  * [Problem Set - Cash](/pset1/cash.c)
+  * [Problem Set - Credit](/pset1/credit.c)
 
 - [Problem Set 2: C](/pset2) - Problem Set 2 --<a href='https://cs50.harvard.edu/x/2021/psets/2/'>(link)</a>
   * [Readability](/pset2/readability.c)
