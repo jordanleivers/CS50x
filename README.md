@@ -23,3 +23,4 @@ Course materials <a href='https://cs50.harvard.edu/x/2021/'>here</a>
   * [Lab - Scrabble](/pset2/scrabble.c)
   * [Problem Set - Readability](/pset2/readability.c)
   * [Problem Set - Caesar](/pset2/caesar.c)
+  * [Problem Set - Substitution](/pset2/substitution.c)
