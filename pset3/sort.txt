@@ -1,0 +1,11 @@
+sort1 uses: bubblesort
+
+How do you know?: it outperformed selectionsort on already sorted data
+
+sort2 uses: mergesort
+
+How do you know?: it sorted the fastest when using reversed data
+
+sort3 uses: selectionsort
+
+How do you know?: it had the approximate same sorting time for all datasets
