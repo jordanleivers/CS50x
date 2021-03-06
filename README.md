@@ -1,6 +1,6 @@
 # CS50 Introduction To Computer Science via EDX
 
-I made this repository to post my solutions to Harvard University's 2020 CS50's Intro to Computer Science Course so that I can document my process and hold myself liable for completion.
+I made this repository to post my solutions to Harvard University's 2021 CS50's Intro to Computer Science Course so that I can document my process and hold myself liable for completion.
 
 Course can be found <a href='https://www.edx.org/course/cs50s-introduction-to-computer-science'>here</a>
 
@@ -27,4 +27,5 @@ Course materials <a href='https://cs50.harvard.edu/x/2021/'>here</a>
 
 - [Week 3: Algorithms](/pset3) - Week 3: Arrays --<a href='https://cs50.harvard.edu/x/2021/weeks/3/'>(link)</a>
   * [Lab - Sort](/pset3/sort.txt) - only a text file with the answers relating to this Lab - for more infomation check the Lab <a href='https://cs50.harvard.edu/x/2021/labs/3/'>(link)</a>
-  * [Problem Set - Plurality](/pset2/plurality.c)
+  * [Problem Set - Plurality](/pset3/plurality.c)
+  * [Problem Set - Runoff](/pset3/runoff.c)
