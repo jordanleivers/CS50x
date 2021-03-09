@@ -29,3 +29,4 @@ Course materials <a href='https://cs50.harvard.edu/x/2021/'>here</a>
   * [Lab - Sort](/pset3/sort.txt) - only a text file with the answers relating to this Lab - for more infomation check the Lab <a href='https://cs50.harvard.edu/x/2021/labs/3/'>(link)</a>
   * [Problem Set - Plurality](/pset3/plurality.c)
   * [Problem Set - Runoff](/pset3/runoff.c)
+  * [Problem Set - Tideman](/pset3/tideman.c)
